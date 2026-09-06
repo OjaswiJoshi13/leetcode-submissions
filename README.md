@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
+| [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0643-maximum-average-subarray-i](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
