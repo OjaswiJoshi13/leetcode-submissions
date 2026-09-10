@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
