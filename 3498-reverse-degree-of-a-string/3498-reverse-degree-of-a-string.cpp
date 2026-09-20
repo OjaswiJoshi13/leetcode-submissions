@@ -1,19 +1,11 @@
 class Solution {
 public:
     int reverseDegree(string s) {
-        int ans=0;
-        string rev = "zyxwvutsrqponmlkjihgfedcba";
-        for(int i=0;i<s.size();i++){
-            int val;
-            for(int j=0;j<26;j++){
-                if(s[i]==rev[j]){
-                    val=j+1;
-                    break;
-                }
-            }
-
-            ans+= val*(i+1);
+        int n = 0;
+        for(int i=0;i<s.length();i++)
+        {
+            n+=(i+1)*(26-(s[i]-'a'));
         }
-        return ans;
+        return n;
     }
 };
