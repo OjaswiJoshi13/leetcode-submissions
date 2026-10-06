@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
@@ -193,4 +195,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
