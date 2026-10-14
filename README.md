@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0836-rectangle-overlap](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0115-distinct-subsequences) |
+| [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0678-valid-parenthesis-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [3483-unique-3-digit-even-numbers](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
