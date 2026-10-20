@@ -1,32 +1,41 @@
 class Solution {
 public:
-    void traverse(vector<vector<char>> &grid,int i,int j, int m,int n){
-        if(i<0 || j<0 || i>=m || j>=n || grid[i][j] == '0'){
-            return;
-        }
-
-        grid[i][j]='0';
-
-        traverse(grid,i,j+1,m,n);
-        traverse(grid,i,j-1,m,n);
-        traverse(grid,i+1,j,m,n);
-        traverse(grid,i-1,j,m,n);
-    }
-
     int numIslands(vector<vector<char>>& grid) {
-        int m=grid.size();
-        int n=grid[0].size();
-
+        int n=grid.size();
+        int m=grid[0].size();
         int count=0;
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]=='1'){
+        vector<vector<int>> vis(n,vector<int> (m,0));
+        vector<int> dr={0,1,0,-1};
+        vector<int> dc={1,0,-1,0};
+
+        for(int r=0;r<n;r++){
+            for(int c=0;c<m;c++){
+                if(grid[r][c]=='1' && !vis[r][c]){
                     count++;
-                    traverse(grid,i,j,m,n);
+                    vis[r][c]=1;
+
+                    stack<pair<int,int>> st;
+                    st.push({r,c});
+
+                    while(!st.empty()){
+                        auto [i,j] = st.top();
+                        st.pop();
+
+                        for(int k=0;k<4;k++){
+                            int nr=i+dr[k];
+                            int nc=j+dc[k];
+
+                            if(nr>=0 && nr<n && nc>=0 && nc<m && grid[nr][nc]=='1' && !vis[nr][nc]){
+                                vis[nr][nc]=1;
+                                st.push({nr,nc});
+                            }
+                        }
+                    }
                 }
             }
         }
+
         return count;
 
     }
