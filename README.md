@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
+| [0547-number-of-provinces](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
