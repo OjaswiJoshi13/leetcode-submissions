@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -122,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
 | ------- |
