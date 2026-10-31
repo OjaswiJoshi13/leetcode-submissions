@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -345,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0365-water-and-jug-problem) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
