@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1765-map-of-highest-peak](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
