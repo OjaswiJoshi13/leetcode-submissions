@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
+| [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0365-water-and-jug-problem) |
+| [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0835-image-overlap) |
