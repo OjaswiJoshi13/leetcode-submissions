@@ -1,60 +1,49 @@
 
 class Solution {
 public:
-
-    bool dfs(int node, vector<int>& vis, vector<int>& path,
-             vector<int>& safe, vector<vector<int>>& graph) {
-
-        vis[node] = 1;
-        path[node] = 1;
-
-        for (auto edge : graph[node]) {
-            if (!vis[edge]) {
-                if (dfs(edge, vis, path, safe, graph)) {
-                    path[node] = 0;
-                    return true;
-                }
-            }
-
-            else if (path[edge]) {
-                path[node] = 0;
-                return true;
-            }
-
-            else if (!safe[edge]) {
-                path[node] = 0;
-                return true;
-            }
-        }
-
-        path[node] = 0;
-        safe[node] = 1;
-
-        return false;
-    }
-
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
 
         int n = graph.size();
 
-        vector<int> vis(n, 0);
-        vector<int> path(n, 0);
-        vector<int> safe(n, 0);
+        vector<int> adj[n];
+        vector<int> indegree(n, 0);
 
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                dfs(i, vis, path, safe, graph);
+        // Reverse the graph
+        for(int i = 0; i < n; i++) {
+            for(auto it : graph[i]) {
+                adj[it].push_back(i);
+                indegree[i]++;
             }
         }
 
-        vector<int> ans;
+        queue<int> q;
+        vector<int> topo;
 
-        for (int i = 0; i < n; i++) {
-            if (safe[i]) {
-                ans.push_back(i);
+        // Terminal nodes have outdegree 0
+        for(int i = 0; i < n; i++) {
+            if(indegree[i] == 0) {
+                q.push(i);
             }
         }
 
-        return ans;
+        while(!q.empty()) {
+
+            int node = q.front();
+            q.pop();
+
+            topo.push_back(node);
+
+            for(auto it : adj[node]) {
+                indegree[it]--;
+
+                if(indegree[it] == 0) {
+                    q.push(it);
+                }
+            }
+        }
+
+        sort(topo.begin(), topo.end());
+
+        return topo;
     }
 };
