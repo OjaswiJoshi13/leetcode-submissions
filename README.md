@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
+| [0630-course-schedule-iii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0733-flood-fill) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0630-course-schedule-iii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Shortest Path
