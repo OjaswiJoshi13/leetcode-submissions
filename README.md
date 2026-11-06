@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0365-water-and-jug-problem](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0365-water-and-jug-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
