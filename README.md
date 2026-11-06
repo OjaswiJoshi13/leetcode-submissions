@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0365-water-and-jug-problem](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0365-water-and-jug-problem) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0198-house-robber) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
