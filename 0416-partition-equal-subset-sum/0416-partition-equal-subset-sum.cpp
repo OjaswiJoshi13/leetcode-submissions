@@ -1,23 +1,33 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        int sum=0;
-        for(int i : nums) sum+=i;
+        int n = nums.size(), sum = 0;
 
-        if(sum%2!=0) return false;
+        for(int i = 0; i < n; i++) {
+            sum += nums[i];
+        }
 
-        int val = sum/2;
+        if(sum % 2 != 0) return false;
 
-        vector<bool> dp(val+1,false);
-        dp[0]=true;
+        int target = sum / 2;
 
-        for(int num : nums){
-            for(int i=val ; i>=num ; i--){
-                dp[i]=dp[i] || dp[i-num];
-                if(dp[val]) return true;
+        vector<vector<int>> dp(n+1, vector<int>(target+1, 0));
+
+        for(int i = 0; i <= n; i++) {
+            dp[i][0] = 1;
+        }
+
+        for(int i = n-1; i >= 0; i--) {
+            for(int j = 1; j <= target; j++) {
+
+                dp[i][j] = dp[i+1][j];
+
+                if(nums[i] <= j) {
+                    dp[i][j] = dp[i][j] || dp[i+1][j-nums[i]];
+                }
             }
         }
 
-        return dp[val];
+        return dp[0][target];
     }
 };
