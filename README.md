@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0494-target-sum) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0547-number-of-provinces) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
