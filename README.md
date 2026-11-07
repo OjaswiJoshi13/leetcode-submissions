@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0630-course-schedule-iii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -413,10 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0494-target-sum) |
 ## Graph Coloring
 |  |
 | ------- |
