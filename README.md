@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
@@ -470,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0322-coin-change) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
