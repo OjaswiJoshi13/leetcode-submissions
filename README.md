@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0520-detect-capital](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0139-word-break) |
 | [1096-brace-expansion-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0139-word-break) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -481,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
