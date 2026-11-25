@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
+| [0343-integer-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0365-water-and-jug-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
