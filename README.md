@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2739-total-distance-traveled](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2739-total-distance-traveled) |
+| [3360-stone-removal-game](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3525-find-x-value-of-array-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/2739-total-distance-traveled) |
+| [3360-stone-removal-game](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/OjaswiJoshi13/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
